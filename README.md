@@ -1,4 +1,4 @@
-# Category C: RPC CATNAME Network
+# Category C: RPC & Network
 ## Wave 1 Analysis - DISTRIBUTED_SYSTEMS Exploration Pipeline
 
 **Repository**: Part of 8-category parallel analysis
